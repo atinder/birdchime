@@ -1,9 +1,9 @@
-BirdChime built 'Musica' (the "app") as a Shopify App. This service is provided by BirdChime and is intended for use as is. This page is used to inform users ("you") regarding the policies with the collection, use, and disclosure of personal information if anyone decided to use this service. If you choose to use the app, then you agree to the collection and use of information in relation to this policy. The collected information is required for the service to work. It is not shared with 3rd parties. Information collection and use when installing the the app you grant it access to the following scopes: `write_script_tags`
+BirdChime built multiple Shopify Apps. This service is provided by BirdChime and is intended for use as is. This page is used to inform users ("you") regarding the policies with the collection, use, and disclosure of personal information if anyone decided to use this service. If you choose to use the app, then you agree to the collection and use of information in relation to this policy. The collected information is required for the service to work. It is not shared with 3rd parties. Information collection and use when installing the the app you grant it access to the following scopes: `write_script_tags`
 
 - BirdChime does not store user's Shopify login credentialss.
 - BirdChime stores Shopify access token with the given permissions for app.
 - BirdChime stores settings for the app's functionality. 
-- Once Musica app is uninstalled, all store related data (products, customers, orders) is deleted.
+- Once our apps are uninstalled, all store related data (products, customers, orders) is deleted.
 
 No other info is stored. Sharing of data with 3rd party services The app is hosted(database/routing/server) on AWS (https://aws.amazon.com) and Heroku. 
 
