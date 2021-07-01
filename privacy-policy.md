@@ -13,5 +13,5 @@ We value your trust in providing your personal information, thus We are striving
 ### Cookies 
 We do not use any cookies to track our users. We may update this privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by sending you an email to give time for you to raise any concerns. Contact us If you have any questions or suggestions about the Privacy Policy, do not hesitate to drop and email at support@birdchime.com
 
-# Fair Usage Policy
+### Fair Usage Policy
 We have the right to temporarily disable the services, if we see any unfair usage in the app.
